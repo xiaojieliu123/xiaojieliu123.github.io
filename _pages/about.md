@@ -17,7 +17,7 @@ Welcome to my personal website! I am a Ph.D. candidate in Managerial Economics a
 
 I will be on the 2024-2025 job market.
 
-Previously, I received Master in Economics summa cum laude from Sciences Po and  B.S. with honors in Electrical Engineering from Fudan University.
+Previously, I received Master in Economics summa cum laude from Sciences Po, Paris and B.S. with honors in Electrical Engineering from Fudan University.
 
 My first name is pronounced Shaw-Jeh.
 Contact: xiaojie.liu@kellogg.northwestern.edu
