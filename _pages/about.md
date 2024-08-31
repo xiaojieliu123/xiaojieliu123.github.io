@@ -20,4 +20,5 @@ I will be on the 2024-2025 job market.
 Previously, I received Master in Economics summa cum laude from Sciences Po, Paris and B.S. with honors in Electrical Engineering from Fudan University.
 
 My first name is pronounced Shaw-Jeh.
+
 Contact: xiaojie.liu@kellogg.northwestern.edu
