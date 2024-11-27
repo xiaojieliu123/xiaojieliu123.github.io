@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.kellogg.northwestern.edu/faculty/academics/managerial-economics-decision-sciences.aspx'>Ph.D in Managerial Economics and Strategy, Kellogg School of Management</a>
 profile:
   align: right
-  image: me.JPG
+  image: me.png
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
