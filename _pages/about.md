@@ -21,4 +21,5 @@ Previously, I received Master in Economics summa cum laude from Sciences Po, Par
 
 My first name is pronounced Shaw-Jeh.
 
-Contact: xiaojie.liu@kellogg.northwestern.edu
+Email: xiaojie.liu@kellogg.northwestern.edu
+Phone: 872-806-9278
