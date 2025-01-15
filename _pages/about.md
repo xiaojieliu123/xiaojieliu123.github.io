@@ -24,3 +24,5 @@ My first name is pronounced Shaw-Jeh.
 Email: xiaojie.liu@kellogg.northwestern.edu
 
 Phone: 872-806-9278
+
+I am authorized to work legally in the United States and do not require visa sponsorship.
