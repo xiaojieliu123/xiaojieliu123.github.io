@@ -15,14 +15,8 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my personal website! I am a Ph.D. candidate in Managerial Economics and Strategy at Northwestern University Kellogg School of Management. My research interests include monetary economics, growth, search and information economics.  In my research, I propose minimalist theory to explain empirically documented phenomena.
 
-I will be on the 2024-2025 job market.
-
 Previously, I received Master in Economics summa cum laude from Sciences Po, Paris and B.S. with honors in Electrical Engineering from Fudan University.
 
 My first name is pronounced Shaw-Jeh.
 
 Email: xiaojie.liu@kellogg.northwestern.edu
-
-Phone: 872-806-9278
-
-I am authorized to work legally in the United States and do not require visa sponsorship.
