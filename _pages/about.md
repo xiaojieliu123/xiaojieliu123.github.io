@@ -14,4 +14,5 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Welcome to my personal website! This website is no longer updated. My website has been permanently moved to https://xiaojieliu.weebly.com/
+
 Email: xiaojie.liu@kellogg.northwestern.edu
